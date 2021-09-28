@@ -40,12 +40,8 @@
 <br />
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&layout=compact" alt="jineshnagori" /></p>
-
+[![Jinesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jineshnagori&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
 <br />
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&theme=white-blue" alt="jineshnagori" /></p>
-
+[![Jinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineshnagori&theme=holi-theme&hide_border=true)](https://github.com/jineshnagori/github-readme-stats)
 <br />
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jineshnagori&show_icons=true" alt="jineshnagori" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&layout=compact&theme=holi-theme&hide_border=true)]
