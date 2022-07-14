@@ -1,31 +1,48 @@
 <p align="center">
 <a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
 </p>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jinesh Nagori</h1>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Jinesh Nagori
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=jineshnagori" alt="jineshnagori"/></p>
 
 
-- 🔭 I’m currently working on **My Personal Project.**
+- 🔭 I’m currently preparing for **eJPT**
 
-- 🌱 I’m currently learning **Everything** 🤣
+- 🌱 I’m currently learning **Penetration testing**
 
-- 👯 I’m looking to collaborate on **Instagram**
+- 📫 How to reach me **contact@jineshnagori.in**
 
-- 💬 Ask me about **Web Developement and Many more**
-
-- 📫 How to reach me **contact@jineshnagori.ml**
+### Technical Skills:
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</p>
 
 ### Connect with me:
 
-<p align="left">  <a href="https://linkedin.com/in/jineshnagori" target="blank"><img align="left" src="https://res.cloudinary.com/duqouxhjb/image/upload/v1632820664/1_zdn6ya.svg" alt="jineshnagori" height="30" width="40" /></a>
-<a href="https://instagram.com/jinesh.nagori" target="blank"><img align="left" src="https://res.cloudinary.com/duqouxhjb/image/upload/v1632820665/2_etiphq.svg" alt="jinesh.nagori" height="30" width="40" /></a></p>
+<p align="left">
+    <a href="https://linkedin.com/in/jineshnagori">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+    </a>
+    <a href="https://twitter.com/jinesh_nagori">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
+    </a>
+    <a href="https://jineshnagori.in/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
+    </a>
+</p>
+<br>
 
-<br />
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&theme=tokyonight&hide_border=true)
-<br />
-![Jinesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jineshnagori&theme=tokyonight&hide_border=true)
-<br />
-![Jinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jineshnagori&theme=tokyonight&hide_border=true)
-<br />
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jineshnagori&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="jineshnagori" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="jineshnagori" height="139" />
+</p>
