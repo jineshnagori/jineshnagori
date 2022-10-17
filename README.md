@@ -9,12 +9,19 @@
 </h1>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=jineshnagori" alt="jineshnagori"/></p>
 
+### Connect with me:
 
-- 🔭 I’m currently preparing for **eJPT**
-
-- 🌱 I’m currently learning **Penetration testing**
-
-- 📫 How to reach me **contact@jineshnagori.in**
+<p align="left">
+    <a href="https://linkedin.com/in/jineshnagori">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
+    </a>
+    <a href="https://twitter.com/jinesh_nagori">
+        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
+    </a>
+    <a href="https://jineshnagori.in/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
+    </a>
+</p>
 
 ### Technical Skills:
 <p>
@@ -29,25 +36,16 @@
 
 ### Badges:
 
-[![@jineshnagori's Holopin board](https://holopin.me/jineshnagori)](https://holopin.io/@jineshnagori)
 <p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/jineshnagori.png" alt="TryHackMe">
+<img width="70px" src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png">
+<img width="90px" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png">
+<img width="70px" src="https://images.credly.com/images/2bc7ddcc-36dc-4a55-a330-d220ce95dcbe/MTA-Security-Fundamentals-2019.png">
+<img width="300px" src="https://tryhackme-badges.s3.amazonaws.com/jineshnagori.png" alt="TryHackMe">
 </p>
 
-### Connect with me:
+[![@jineshnagori's Holopin board](https://holopin.me/jineshnagori)](https://holopin.io/@jineshnagori)
 
-<p align="left">
-    <a href="https://linkedin.com/in/jineshnagori">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
-    </a>
-    <a href="https://twitter.com/jinesh_nagori">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
-    </a>
-    <a href="https://jineshnagori.in/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
-    </a>
-</p>
-<br>
+### Stats:
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jineshnagori&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="jineshnagori" height="139" />
