@@ -9,6 +9,8 @@
 </h1>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=jineshnagori" alt="jineshnagori"/></p>
 
+<h4>A passionate Pull Stack Developer with around 2.5 years of experience in pulling things from Google and putting them into the code to create and manage applications.</h4>
+
 ### Connect with me:
 
 <p align="left">
@@ -24,26 +26,38 @@
 </p>
 
 ### Technical Skills:
+#### Languages:
 <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="css3" />
+    <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffde57" alt="python" />
+    <img src="https://img.shields.io/badge/Shell_Script-000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell" />
+    <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4" alt="php" />
+    <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
 </p>
 
-### Badges:
-
+#### Libraries/Frameworks:
 <p>
-<img width="70px" src="https://images.credly.com/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png">
-<img width="90px" src="https://elearnsecurity.com/wp-content/uploads/eJPT.png">
-<img width="70px" src="https://images.credly.com/images/2bc7ddcc-36dc-4a55-a330-d220ce95dcbe/MTA-Security-Fundamentals-2019.png">
-<img width="300px" src="https://tryhackme-badges.s3.amazonaws.com/jineshnagori.png" alt="TryHackMe">
+    <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/jQuery-000?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jquery" />
 </p>
 
-[![@jineshnagori's Holopin board](https://holopin.me/jineshnagori)](https://holopin.io/@jineshnagori)
+#### Cloud:
+<p>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6" alt="azure" />
+</p>
+
+#### DevOps:
+<p>
+    <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=f44d27" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" />
+    <img src="https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=0db7ed" alt="docker" />
+    <img src="https://img.shields.io/badge/kubernetes-%23000.svg?style=for-the-badge&logo=kubernetes&logoColor=326ce5" alt="k8s" />
+    <img src="https://img.shields.io/badge/terraform-%23000.svg?style=for-the-badge&logo=terraform&logoColor=5835CC" alt="terraform" />
+    <img src="https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=Prometheus&logoColor=E6522C" alt="github" />
+</p>
 
 ### Stats:
 
