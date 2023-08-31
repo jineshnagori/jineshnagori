@@ -56,6 +56,7 @@
     <img src="https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker&logoColor=0db7ed" alt="docker" />
     <img src="https://img.shields.io/badge/kubernetes-%23000.svg?style=for-the-badge&logo=kubernetes&logoColor=326ce5" alt="k8s" />
     <img src="https://img.shields.io/badge/terraform-%23000.svg?style=for-the-badge&logo=terraform&logoColor=5835CC" alt="terraform" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=RedHat+OpenShift&color=000&logo=Red+Hat+Open+Shift&logoColor=EE0000&label=" alt="openshift" />
     <img src="https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=Prometheus&logoColor=E6522C" alt="github" />
 </p>
 
