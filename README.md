@@ -9,7 +9,7 @@
 </h1>
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=jineshnagori" alt="jineshnagori"/></p>
 
-#### A passionate Pull Stack Developer with around 2.5 years of experience in pulling things from Google and putting them into the code to create and manage applications.
+#### A passionate Pull Stack Developer with around 3.5 years of experience in pulling things from Google and putting them into the code to create and manage applications.
 
 ### Connect with me:
 
