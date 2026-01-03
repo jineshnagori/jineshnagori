@@ -57,10 +57,3 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=RedHat+OpenShift&color=000&logo=Red+Hat+Open+Shift&logoColor=EE0000&label=" alt="openshift" />
     <img src="https://img.shields.io/badge/Prometheus-000?style=for-the-badge&logo=Prometheus&logoColor=E6522C" alt="github" />
 </p>
-
-### Stats:
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jineshnagori&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="jineshnagori" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="jineshnagori" height="139" />
-</p>
